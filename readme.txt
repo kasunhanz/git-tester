@@ -1,3 +1,1 @@
-hello
-kasun
-Gayan
+Hello! Initiating the repository
